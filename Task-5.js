@@ -19,3 +19,4 @@ for(let i = 0; i<arr.length; i++){
 
 let capFirst = arr.join("");
 console.log(capFirst);
+
